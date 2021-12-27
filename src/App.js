@@ -13,6 +13,9 @@ export default (props) => {
   <Grid item xs={10}>
 <SearchBar/>
 <Job/>
+<Job/>
+<Job/>
+<Job/>
   </Grid>
   </Grid>
    
