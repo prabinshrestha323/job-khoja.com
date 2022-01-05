@@ -27,7 +27,7 @@ useEffect (()=>{
 }, [])
   return <ThemeProvider  theme ={theme}>
      <Header/>
-   
+   <NewJobModel/>
    <Grid container justify="center" >
   <Grid item xs={10}>
 <SearchBar/>
